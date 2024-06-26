@@ -1,0 +1,23 @@
+{
+  "name": "alangina",
+  "type": "module",
+  "version": "0.0.0",
+  "packageManager": "pnpm@9.4.0",
+  "description": "alangina",
+  "author": "LoTwT <l709937065@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/LoTwT/alangina#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoTwT/alangina.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LoTwT/alangina/issues"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": ""
+  }
+}
